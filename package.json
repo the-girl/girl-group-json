@@ -1,0 +1,23 @@
+{
+  "name": "girl-group-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "json-server --watch ./src/db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-girl/girl-group-json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-girl/girl-group-json/issues"
+  },
+  "homepage": "https://github.com/the-girl/girl-group-json#readme",
+  "devDependencies": {
+    "json-server": "^0.16.1"
+  }
+}
